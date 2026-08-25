@@ -2,6 +2,9 @@
 .DS_Store
 Thumbs.db
 
+# Docs locales (no versionar)
+docs/
+
 # Env / secrets
 .env
 .env.*
